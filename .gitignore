@@ -1,0 +1,9 @@
+# Rhubarb binary (download per machine, see README)
+bin/
+
+# Python cache files Maya generates
+__pycache__/
+*.pyc
+
+# Rhubarb output from test runs
+*_cues.json

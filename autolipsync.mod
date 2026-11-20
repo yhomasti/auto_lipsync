@@ -1,0 +1,1 @@
++ autolipsync 0.1 C:/Users/Lu/Desktop/Github/auto_lipsync_maya
